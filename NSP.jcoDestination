@@ -1,0 +1,12 @@
+jco.client.type=3
+jco.client.client=001
+jco.client.user=bcuser
+jco.client.passwd=Password2
+jco.client.lang=en
+#jco.client.mshost=vikpc.com
+jco.client.ashost=vikpc.com
+jco.client.r3name=NSP
+jco.client.group=PUBLIC
+jco.client.trace=0
+jco.client.sysnr=00
+jco.destination.repository_destination=NSP
